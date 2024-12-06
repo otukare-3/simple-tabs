@@ -1,0 +1,25 @@
+.simple-tabs {
+  width: 700px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.simple-tabs__content {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  padding: 50px 0;
+}
+
+.tab-header__item {
+  padding: 0 10px;
+  color: lightgray;
+}
+.tab-header__item-active {
+  color: black;
+  border-bottom: 2px solid black;
+}
+
+/*# sourceMappingURL=style.css.map */
